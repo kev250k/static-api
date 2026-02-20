@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "email": "23f1002714@ds.study.iitm.ac.in",
+    "version": "6239cb20"
+  },
+  "products": [
+    { "id": 1, "name": "Running Shoes", "category": "footwear", "price": 2499.99, "stock": 40, "rating": 4.5 },
+    { "id": 2, "name": "Leather Wallet", "category": "accessories", "price": 1299.50, "stock": 75, "rating": 4.3 },
+    { "id": 3, "name": "Bluetooth Speaker", "category": "electronics", "price": 3499.00, "stock": 30, "rating": 4.6 },
+    { "id": 4, "name": "Smart Watch", "category": "electronics", "price": 8999.99, "stock": 20, "rating": 4.7 },
+    { "id": 5, "name": "Laptop Backpack", "category": "bags", "price": 1999.00, "stock": 50, "rating": 4.4 },
+    { "id": 6, "name": "Graphic T-Shirt", "category": "clothing", "price": 999.99, "stock": 15, "rating": 4.1 },
+    { "id": 7, "name": "Denim Jacket", "category": "clothing", "price": 2499.99, "stock": 8, "rating": 4.5 },
+    { "id": 8, "name": "Formal Shirt", "category": "clothing", "price": 1499.99, "stock": 10, "rating": 4.2 },
+    { "id": 9, "name": "Yoga Mat", "category": "fitness", "price": 799.00, "stock": 60, "rating": 4.4 },
+    { "id": 10, "name": "Dumbbell Set", "category": "fitness", "price": 4599.99, "stock": 25, "rating": 4.6 },
+    { "id": 11, "name": "Gaming Mouse", "category": "electronics", "price": 1599.99, "stock": 45, "rating": 4.5 },
+    { "id": 12, "name": "Mechanical Keyboard", "category": "electronics", "price": 4999.99, "stock": 18, "rating": 4.7 },
+    { "id": 13, "name": "Travel Suitcase", "category": "bags", "price": 5999.99, "stock": 12, "rating": 4.6 },
+    { "id": 14, "name": "Sunglasses", "category": "accessories", "price": 899.99, "stock": 80, "rating": 4.3 },
+    { "id": 15, "name": "Wrist Watch", "category": "accessories", "price": 3299.99, "stock": 22, "rating": 4.4 },
+    { "id": 16, "name": "Tablet", "category": "electronics", "price": 14999.99, "stock": 14, "rating": 4.8 },
+    { "id": 17, "name": "Office Chair", "category": "furniture", "price": 7999.99, "stock": 9, "rating": 4.5 },
+    { "id": 18, "name": "Water Bottle", "category": "fitness", "price": 499.99, "stock": 100, "rating": 4.2 },
+    { "id": 19, "name": "Desk Lamp", "category": "furniture", "price": 1299.99, "stock": 35, "rating": 4.3 },
+    { "id": 20, "name": "Wireless Earbuds", "category": "electronics", "price": 2999.99, "stock": 28, "rating": 4.6 }
+  ],
+  "aggregations": {
+    "clothing": {
+      "count": 3,
+      "inventoryValue": 39460.29
+    }
+  }
+}
