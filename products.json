@@ -5,15 +5,15 @@
   },
   "products": [
     {
-      "id": 1,
+      "id": "prod-6239cb20-001",
       "name": "Classic Denim Jacket",
       "category": "clothing",
       "price": 89.99,
-      "stock": 145,
+      "stock": 175,
       "rating": 4.5
     },
     {
-      "id": 2,
+      "id": "prod-6239cb20-002",
       "name": "Wireless Bluetooth Headphones",
       "category": "electronics",
       "price": 79.99,
@@ -21,15 +21,15 @@
       "rating": 4.7
     },
     {
-      "id": 3,
+      "id": "prod-6239cb20-003",
       "name": "Cotton T-Shirt",
       "category": "clothing",
       "price": 24.99,
-      "stock": 300,
+      "stock": 365,
       "rating": 4.3
     },
     {
-      "id": 4,
+      "id": "prod-6239cb20-004",
       "name": "Smart Watch",
       "category": "electronics",
       "price": 199.99,
@@ -37,7 +37,7 @@
       "rating": 4.6
     },
     {
-      "id": 5,
+      "id": "prod-6239cb20-005",
       "name": "Yoga Mat",
       "category": "fitness",
       "price": 29.99,
@@ -45,7 +45,7 @@
       "rating": 4.4
     },
     {
-      "id": 6,
+      "id": "prod-6239cb20-006",
       "name": "Running Shoes",
       "category": "footwear",
       "price": 129.99,
@@ -53,7 +53,7 @@
       "rating": 4.8
     },
     {
-      "id": 7,
+      "id": "prod-6239cb20-007",
       "name": "Leather Wallet",
       "category": "accessories",
       "price": 49.99,
@@ -61,15 +61,15 @@
       "rating": 4.2
     },
     {
-      "id": 8,
+      "id": "prod-6239cb20-008",
       "name": "Winter Parka",
       "category": "clothing",
       "price": 199.99,
-      "stock": 60,
+      "stock": 73,
       "rating": 4.7
     },
     {
-      "id": 9,
+      "id": "prod-6239cb20-009",
       "name": "Tablet",
       "category": "electronics",
       "price": 329.99,
@@ -77,7 +77,7 @@
       "rating": 4.5
     },
     {
-      "id": 10,
+      "id": "prod-6239cb20-010",
       "name": "Dumbbell Set",
       "category": "fitness",
       "price": 89.99,
@@ -85,7 +85,7 @@
       "rating": 4.6
     },
     {
-      "id": 11,
+      "id": "prod-6239cb20-011",
       "name": "Backpack",
       "category": "accessories",
       "price": 59.99,
@@ -93,7 +93,7 @@
       "rating": 4.3
     },
     {
-      "id": 12,
+      "id": "prod-6239cb20-012",
       "name": "Sunglasses",
       "category": "accessories",
       "price": 149.99,
@@ -101,7 +101,7 @@
       "rating": 4.4
     },
     {
-      "id": 13,
+      "id": "prod-6239cb20-013",
       "name": "Treadmill",
       "category": "fitness",
       "price": 699.99,
@@ -109,7 +109,7 @@
       "rating": 4.7
     },
     {
-      "id": 14,
+      "id": "prod-6239cb20-014",
       "name": "Gaming Mouse",
       "category": "electronics",
       "price": 49.99,
@@ -117,7 +117,7 @@
       "rating": 4.5
     },
     {
-      "id": 15,
+      "id": "prod-6239cb20-015",
       "name": "Hiking Boots",
       "category": "footwear",
       "price": 159.99,
@@ -125,7 +125,7 @@
       "rating": 4.6
     },
     {
-      "id": 16,
+      "id": "prod-6239cb20-016",
       "name": "Watch",
       "category": "accessories",
       "price": 299.99,
@@ -133,7 +133,7 @@
       "rating": 4.8
     },
     {
-      "id": 17,
+      "id": "prod-6239cb20-017",
       "name": "Protein Powder",
       "category": "fitness",
       "price": 49.99,
@@ -141,7 +141,7 @@
       "rating": 4.3
     },
     {
-      "id": 18,
+      "id": "prod-6239cb20-018",
       "name": "Sandals",
       "category": "footwear",
       "price": 39.99,
@@ -149,7 +149,7 @@
       "rating": 4.1
     },
     {
-      "id": 19,
+      "id": "prod-6239cb20-019",
       "name": "Keyboard",
       "category": "electronics",
       "price": 89.99,
@@ -157,7 +157,7 @@
       "rating": 4.4
     },
     {
-      "id": 20,
+      "id": "prod-6239cb20-020",
       "name": "Sneakers",
       "category": "footwear",
       "price": 119.99,
