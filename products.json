@@ -4,32 +4,166 @@
     "version": "6239cb20"
   },
   "products": [
-    { "id": "prod-6239cb20-001", "name": "Classic T-Shirt", "category": "clothing", "price": 1999.99, "stock": 5, "rating": 4.2 },
-    { "id": "prod-6239cb20-002", "name": "Denim Jeans", "category": "clothing", "price": 3499.99, "stock": 4, "rating": 4.5 },
-    { "id": "prod-6239cb20-003", "name": "Leather Jacket", "category": "clothing", "price": 8999.99, "stock": 3, "rating": 4.7 },
-
-    { "id": "prod-6239cb20-004", "name": "Bluetooth Speaker", "category": "electronics", "price": 2999.99, "stock": 20, "rating": 4.6 },
-    { "id": "prod-6239cb20-005", "name": "Smartphone", "category": "electronics", "price": 15999.99, "stock": 10, "rating": 4.8 },
-    { "id": "prod-6239cb20-006", "name": "Laptop", "category": "electronics", "price": 45999.99, "stock": 6, "rating": 4.9 },
-    { "id": "prod-6239cb20-007", "name": "Wireless Mouse", "category": "electronics", "price": 1299.99, "stock": 50, "rating": 4.4 },
-
-    { "id": "prod-6239cb20-008", "name": "Office Chair", "category": "furniture", "price": 7999.99, "stock": 8, "rating": 4.3 },
-    { "id": "prod-6239cb20-009", "name": "Wooden Desk", "category": "furniture", "price": 14999.99, "stock": 5, "rating": 4.6 },
-
-    { "id": "prod-6239cb20-010", "name": "Yoga Mat", "category": "fitness", "price": 999.99, "stock": 30, "rating": 4.2 },
-    { "id": "prod-6239cb20-011", "name": "Dumbbell Set", "category": "fitness", "price": 4999.99, "stock": 12, "rating": 4.5 },
-
-    { "id": "prod-6239cb20-012", "name": "Travel Backpack", "category": "bags", "price": 2499.99, "stock": 15, "rating": 4.4 },
-    { "id": "prod-6239cb20-013", "name": "Suitcase", "category": "bags", "price": 5999.99, "stock": 7, "rating": 4.5 },
-
-    { "id": "prod-6239cb20-014", "name": "Sunglasses", "category": "accessories", "price": 899.99, "stock": 40, "rating": 4.3 },
-    { "id": "prod-6239cb20-015", "name": "Wallet", "category": "accessories", "price": 1299.99, "stock": 25, "rating": 4.4 },
-
-    { "id": "prod-6239cb20-016", "name": "Tablet", "category": "electronics", "price": 19999.99, "stock": 9, "rating": 4.7 },
-    { "id": "prod-6239cb20-017", "name": "Headphones", "category": "electronics", "price": 3999.99, "stock": 18, "rating": 4.6 },
-    { "id": "prod-6239cb20-018", "name": "Desk Lamp", "category": "furniture", "price": 1499.99, "stock": 20, "rating": 4.3 },
-    { "id": "prod-6239cb20-019", "name": "Water Bottle", "category": "fitness", "price": 499.99, "stock": 60, "rating": 4.2 },
-    { "id": "prod-6239cb20-020", "name": "Gaming Keyboard", "category": "electronics", "price": 5999.99, "stock": 11, "rating": 4.7 }
+    {
+      "id": 1,
+      "name": "Classic Denim Jacket",
+      "category": "clothing",
+      "price": 89.99,
+      "stock": 145,
+      "rating": 4.5
+    },
+    {
+      "id": 2,
+      "name": "Wireless Bluetooth Headphones",
+      "category": "electronics",
+      "price": 79.99,
+      "stock": 200,
+      "rating": 4.7
+    },
+    {
+      "id": 3,
+      "name": "Cotton T-Shirt",
+      "category": "clothing",
+      "price": 24.99,
+      "stock": 300,
+      "rating": 4.3
+    },
+    {
+      "id": 4,
+      "name": "Smart Watch",
+      "category": "electronics",
+      "price": 199.99,
+      "stock": 75,
+      "rating": 4.6
+    },
+    {
+      "id": 5,
+      "name": "Yoga Mat",
+      "category": "fitness",
+      "price": 29.99,
+      "stock": 180,
+      "rating": 4.4
+    },
+    {
+      "id": 6,
+      "name": "Running Shoes",
+      "category": "footwear",
+      "price": 129.99,
+      "stock": 90,
+      "rating": 4.8
+    },
+    {
+      "id": 7,
+      "name": "Leather Wallet",
+      "category": "accessories",
+      "price": 49.99,
+      "stock": 150,
+      "rating": 4.2
+    },
+    {
+      "id": 8,
+      "name": "Winter Parka",
+      "category": "clothing",
+      "price": 199.99,
+      "stock": 60,
+      "rating": 4.7
+    },
+    {
+      "id": 9,
+      "name": "Tablet",
+      "category": "electronics",
+      "price": 329.99,
+      "stock": 45,
+      "rating": 4.5
+    },
+    {
+      "id": 10,
+      "name": "Dumbbell Set",
+      "category": "fitness",
+      "price": 89.99,
+      "stock": 85,
+      "rating": 4.6
+    },
+    {
+      "id": 11,
+      "name": "Backpack",
+      "category": "accessories",
+      "price": 59.99,
+      "stock": 120,
+      "rating": 4.3
+    },
+    {
+      "id": 12,
+      "name": "Sunglasses",
+      "category": "accessories",
+      "price": 149.99,
+      "stock": 55,
+      "rating": 4.4
+    },
+    {
+      "id": 13,
+      "name": "Treadmill",
+      "category": "fitness",
+      "price": 699.99,
+      "stock": 15,
+      "rating": 4.7
+    },
+    {
+      "id": 14,
+      "name": "Gaming Mouse",
+      "category": "electronics",
+      "price": 49.99,
+      "stock": 110,
+      "rating": 4.5
+    },
+    {
+      "id": 15,
+      "name": "Hiking Boots",
+      "category": "footwear",
+      "price": 159.99,
+      "stock": 40,
+      "rating": 4.6
+    },
+    {
+      "id": 16,
+      "name": "Watch",
+      "category": "accessories",
+      "price": 299.99,
+      "stock": 30,
+      "rating": 4.8
+    },
+    {
+      "id": 17,
+      "name": "Protein Powder",
+      "category": "fitness",
+      "price": 49.99,
+      "stock": 200,
+      "rating": 4.3
+    },
+    {
+      "id": 18,
+      "name": "Sandals",
+      "category": "footwear",
+      "price": 39.99,
+      "stock": 150,
+      "rating": 4.1
+    },
+    {
+      "id": 19,
+      "name": "Keyboard",
+      "category": "electronics",
+      "price": 89.99,
+      "stock": 80,
+      "rating": 4.4
+    },
+    {
+      "id": 20,
+      "name": "Sneakers",
+      "category": "footwear",
+      "price": 119.99,
+      "stock": 95,
+      "rating": 4.5
+    }
   ],
   "aggregations": {
     "clothing": {
